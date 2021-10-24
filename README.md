@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science Project
 - 💬 Ask me about anything related to data analysis
 - 📫 How to reach me: 
-    - [linkedin](https://www.linkedin.com/in/tanveer-alam-59b74312a/)
+    - [linkedin](https://www.linkedin.com/in/tanveer6329/)
     - Gmail: tanveer6329@gmail.com
 - 😄 Pronouns: He/His
 - 😂 Funfact: **g**et **i**nto **t**echnology
