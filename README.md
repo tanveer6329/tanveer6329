@@ -6,9 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
+<!--
 - 🌱 I’m currently learning Machine learning and Deep learning
 - 👯 I’m looking to collaborate on Data Science Project
 - 💬 Ask me about anything related to data wrangling and machine learning
+-->
 - 📫 How to reach me: 
     - [linkedin](https://www.linkedin.com/in/tanveer6329/)
     - Gmail: tanveer6329@gmail.com
