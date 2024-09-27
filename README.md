@@ -1,4 +1,4 @@
-### Hi I'm Tanveer Alam 👋
+### Hi I'm Tanveer Alam Munshi 👋
 
 <!--
 **tanveer234/tanveer234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
